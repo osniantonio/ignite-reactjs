@@ -1,4 +1,4 @@
-<b>Github Explorer</b> é o primeiro projeto criado no chapter 1 da trilha de ReactJS do Ignite da Rocketseat para demonstrar a construção básica, do zero, de um projeto em React.
+<b>Github Explorer</b> é o primeiro projeto criado no chapter 1 da trilha de ReactJS - trilha Ignite da Rocketseat. Feito para demonstrar a construção básica, do zero, de um projeto em React.
 
 # :pushpin: Conteúdo
 
