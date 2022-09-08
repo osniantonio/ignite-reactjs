@@ -1,13 +1,6 @@
-# Repositório com todos os projetos da trilha ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat).
+# Repositório principal
 
-# Desafios
-
-# Desafio 01 - Conceitos do React
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
-- Adicionar uma nova tarefa;
-- Remover uma tarefa;
-- Marcar e desmarcar uma tarefa como concluída.
+Aqui estão todos os projetos da trilha ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat).
 
 # :computer: Autores
 
